@@ -71,7 +71,7 @@ jobs:
       # image can land and the stock UI can be validated behind the ALB. Prod
       # hardening flips exit-code to 1 and gates the push on HIGH/CRITICAL.
       - name: Trivy image scan (report)
-        uses: aquasecurity/trivy-action@0.28.0
+        uses: aquasecurity/trivy-action@v0.36.0
         with:
           image-ref: ${{ steps.meta.outputs.release_ref }}
           format: table
