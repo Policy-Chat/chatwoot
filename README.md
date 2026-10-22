@@ -1,3 +1,68 @@
+<!-- ============================================================== -->
+<!-- Policy-Chat POC fork — maintained section (COR-416 / epic COR-402) -->
+<!-- ============================================================== -->
+
+# Policy-Chat fork of Chatwoot
+
+This is **Policy-Chat's fork** of [`chatwoot/chatwoot`](https://github.com/chatwoot/chatwoot),
+used for the secure web-chat POC (epic **COR-402**). The upstream project
+README follows below.
+
+## Pinning
+
+- Our `main` is **pinned to a stable upstream release tag** (currently
+  **`v4.19.0`**). We do **not** track upstream `develop`.
+- The CI image tag and `CHATWOOT_RELEASE` in
+  [`.github/workflows/build-ecr.yml`](.github/workflows/build-ecr.yml) must
+  always match the pinned release.
+
+## CI → ECR
+
+- On merge to `main` (and via **Run workflow**), GitHub Actions builds the
+  production image from [`docker/Dockerfile`](docker/Dockerfile), scans it with
+  **Trivy**, and pushes to the AWS ECR repo **`chatwoot`** (account
+  `025425726556`, `us-east-1`).
+- Images are tagged **`<release>`** and **`<release>-<shortsha>`** only —
+  **never `latest`**.
+- Auth is via **GitHub OIDC** into the `chat-poc-gha-chatwoot-ecr` IAM role
+  (defined in `Policy-Chat/chat-infra`). No static AWS keys are stored in this
+  repo.
+- Secrets for the running app come from **AWS Secrets Manager** at runtime (see
+  [`.env.production.example`](.env.production.example)); no secret values live
+  in this repo.
+- **Dependabot** ([`.github/dependabot.yml`](.github/dependabot.yml)) keeps
+  bundler / npm / docker / actions deps patched between rebases.
+
+## Monthly rebase procedure
+
+Once a month (or when a security release drops), re-pin to the newest stable
+upstream tag:
+
+```bash
+# 1. Add upstream once (first time only)
+git remote add upstream https://github.com/chatwoot/chatwoot.git || true
+git fetch upstream --tags
+
+# 2. Find the newest stable (non-prerelease) tag, e.g. vX.Y.Z
+git tag -l 'v*' | sort -V | tail -5
+
+# 3. Rebase our fork's main onto the new release tag
+git checkout main
+git rebase <vX.Y.Z>
+#    (resolve conflicts in any Policy-Chat patches, then `git rebase --continue`)
+
+# 4. Bump the pin in CI to match
+#    - edit CHATWOOT_RELEASE in .github/workflows/build-ecr.yml to <vX.Y.Z>
+#    - update the "currently vX.Y.Z" note above
+
+# 5. Push; CI builds + scans + pushes the new image to ECR
+git push --force-with-lease origin main
+```
+
+The deploy (COR-420) then rolls the ECS services to the new `<release>` tag.
+
+---
+
 <img src="./.github/screenshots/header.png#gh-light-mode-only" width="100%" alt="Header light mode"/>
 <img src="./.github/screenshots/header-dark.png#gh-dark-mode-only" width="100%" alt="Header dark mode"/>
 

@@ -1,0 +1,90 @@
+# COR-416 — Build the pinned Chatwoot production image, scan with Trivy, and
+# push to ECR (Policy-Chat chat POC, epic COR-402). No static AWS keys: the job
+# federates into chat-poc-gha-chatwoot-ecr via GitHub OIDC. Images are tagged
+# with the pinned release + short git SHA only — never `latest`.
+name: Build & push Chatwoot image to ECR
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "**/*.md"
+      - ".env.production.example"
+      - ".github/dependabot.yml"
+  workflow_dispatch: {}
+
+concurrency:
+  group: build-ecr-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  id-token: write # request the OIDC JWT
+  contents: read
+
+env:
+  AWS_REGION: us-east-1
+  ECR_REPOSITORY: chatwoot
+  # Pinned stable Chatwoot release. Bump on the monthly rebase (see README).
+  CHATWOOT_RELEASE: v4.19.0
+  ROLE_ARN: arn:aws:iam::025425726556:role/chat-poc-gha-chatwoot-ecr
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ env.ROLE_ARN }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Login to Amazon ECR
+        id: ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Compute image references
+        id: meta
+        run: |
+          REGISTRY='${{ steps.ecr.outputs.registry }}'
+          SHORT_SHA="${GITHUB_SHA::12}"
+          echo "release_ref=${REGISTRY}/${ECR_REPOSITORY}:${CHATWOOT_RELEASE}" >> "$GITHUB_OUTPUT"
+          echo "sha_ref=${REGISTRY}/${ECR_REPOSITORY}:${CHATWOOT_RELEASE}-${SHORT_SHA}" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build production image (load locally for scanning)
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: docker/Dockerfile
+          load: true
+          tags: ${{ steps.meta.outputs.release_ref }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      # POC: Trivy runs in report mode (does not block the push) so the first
+      # image can land and the stock UI can be validated behind the ALB. Prod
+      # hardening flips exit-code to 1 and gates the push on HIGH/CRITICAL.
+      - name: Trivy image scan (report)
+        uses: aquasecurity/trivy-action@0.28.0
+        with:
+          image-ref: ${{ steps.meta.outputs.release_ref }}
+          format: table
+          exit-code: "0"
+          ignore-unfixed: true
+          vuln-type: os,library
+          severity: HIGH,CRITICAL
+
+      - name: Tag + push (release tag and git SHA; never latest)
+        run: |
+          docker tag '${{ steps.meta.outputs.release_ref }}' '${{ steps.meta.outputs.sha_ref }}'
+          docker push '${{ steps.meta.outputs.release_ref }}'
+          docker push '${{ steps.meta.outputs.sha_ref }}'
+          echo "Pushed:"
+          echo "  ${{ steps.meta.outputs.release_ref }}"
+          echo "  ${{ steps.meta.outputs.sha_ref }}"
