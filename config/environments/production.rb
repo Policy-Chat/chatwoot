@@ -44,6 +44,9 @@ Rails.application.configure do
 
   # Force all access to the app over SSL, use Strict-Transport-Security, and use secure cookies.
   config.force_ssl = ActiveModel::Type::Boolean.new.cast(ENV.fetch('FORCE_SSL', false))
+  # Trust upstream TLS termination (CloudFront -> ALB is HTTP): treat requests as SSL so
+  # request.base_url is https and the CSRF origin check matches the browser Origin (COR-499).
+  config.assume_ssl = ActiveModel::Type::Boolean.new.cast(ENV.fetch('RAILS_ASSUME_SSL', false))
 
   # Use the lowest log level to ensure availability of diagnostic information
   # when problems arise.
