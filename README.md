@@ -61,6 +61,17 @@ git push --force-with-lease origin main
 
 The deploy (COR-420) then rolls the ECS services to the new `<release>` tag.
 
+## COR-418 redaction patch
+
+Rebase these files when re-pinning upstream. They are the whole Policy-Chat change for redaction:
+
+- `app/models/concerns/pii_redactable.rb` — `Message` redacts on create and when `content` changes, including private notes and activity messages. `Conversation` rejects new custom-attribute keys that are not operational, `intake_*`, or a defined conversation attribute.
+- `app/models/message.rb` and `app/models/conversation.rb` — one `include` each.
+- `lib/pii_redactor.rb` — POST to `PII_REDACTION_URL`, 300 ms, fail closed. The body is not logged.
+- `config/initializers/filter_parameter_logging.rb` — `content`, `message`, and `body` are filtered.
+
+`PII_REDACTION_URL` must be the full `/redact` URL before this image serves traffic. A missing service aborts the save.
+
 ---
 
 <img src="./.github/screenshots/header.png#gh-light-mode-only" width="100%" alt="Header light mode"/>
