@@ -1,0 +1,500 @@
+{"kind": "ssn", "text": "My social is 900-01-0001 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-001"}
+{"kind": "ssn", "text": "My social is 901-02-0002 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-002"}
+{"kind": "ssn", "text": "My social is 902-03-0003 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-003"}
+{"kind": "ssn", "text": "My social is 903-04-0004 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-004"}
+{"kind": "ssn", "text": "My social is 904-05-0005 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-005"}
+{"kind": "ssn", "text": "My social is 905-06-0006 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-006"}
+{"kind": "ssn", "text": "My social is 906-07-0007 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-007"}
+{"kind": "ssn", "text": "My social is 907-08-0008 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-008"}
+{"kind": "ssn", "text": "My social is 908-09-0009 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-009"}
+{"kind": "ssn", "text": "My social is 909-10-0010 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-010"}
+{"kind": "ssn", "text": "My social is 910-11-0011 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-011"}
+{"kind": "ssn", "text": "My social is 911-12-0012 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-012"}
+{"kind": "ssn", "text": "My social is 912-13-0013 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-013"}
+{"kind": "ssn", "text": "My social is 913-14-0014 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-014"}
+{"kind": "ssn", "text": "My social is 914-15-0015 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-015"}
+{"kind": "ssn", "text": "My social is 915-16-0016 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-016"}
+{"kind": "ssn", "text": "My social is 916-17-0017 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-017"}
+{"kind": "ssn", "text": "My social is 917-18-0018 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-018"}
+{"kind": "ssn", "text": "My social is 918-19-0019 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-019"}
+{"kind": "ssn", "text": "My social is 919-20-0020 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-020"}
+{"kind": "ssn", "text": "My social is 920-21-0021 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-021"}
+{"kind": "ssn", "text": "My social is 921-22-0022 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-022"}
+{"kind": "ssn", "text": "My social is 922-23-0023 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-023"}
+{"kind": "ssn", "text": "My social is 923-24-0024 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-024"}
+{"kind": "ssn", "text": "My social is 924-25-0025 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-025"}
+{"kind": "ssn", "text": "My social is 925-26-0026 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-026"}
+{"kind": "ssn", "text": "My social is 926-27-0027 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-027"}
+{"kind": "ssn", "text": "My social is 927-28-0028 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-028"}
+{"kind": "ssn", "text": "My social is 928-29-0029 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-029"}
+{"kind": "ssn", "text": "My social is 929-30-0030 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-030"}
+{"kind": "ssn", "text": "My social is 930-31-0031 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-031"}
+{"kind": "ssn", "text": "My social is 931-32-0032 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-032"}
+{"kind": "ssn", "text": "My social is 932-33-0033 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-033"}
+{"kind": "ssn", "text": "My social is 933-34-0034 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-034"}
+{"kind": "ssn", "text": "My social is 934-35-0035 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-035"}
+{"kind": "ssn", "text": "My social is 935-36-0036 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-036"}
+{"kind": "ssn", "text": "My social is 936-37-0037 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-037"}
+{"kind": "ssn", "text": "My social is 937-38-0038 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-038"}
+{"kind": "ssn", "text": "My social is 938-39-0039 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-039"}
+{"kind": "ssn", "text": "My social is 939-40-0040 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-040"}
+{"kind": "ssn", "text": "My social is 940-41-0041 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-041"}
+{"kind": "ssn", "text": "My social is 941-42-0042 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-042"}
+{"kind": "ssn", "text": "My social is 942-43-0043 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-043"}
+{"kind": "ssn", "text": "My social is 943-44-0044 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-044"}
+{"kind": "ssn", "text": "My social is 944-45-0045 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-045"}
+{"kind": "ssn", "text": "My social is 945-46-0046 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-046"}
+{"kind": "ssn", "text": "My social is 946-47-0047 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-047"}
+{"kind": "ssn", "text": "My social is 947-48-0048 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-048"}
+{"kind": "ssn", "text": "My social is 948-49-0049 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-049"}
+{"kind": "ssn", "text": "My social is 949-50-0050 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-050"}
+{"kind": "ssn", "text": "My social is 950-51-0051 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-051"}
+{"kind": "ssn", "text": "My social is 951-52-0052 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-052"}
+{"kind": "ssn", "text": "My social is 952-53-0053 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-053"}
+{"kind": "ssn", "text": "My social is 953-54-0054 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-054"}
+{"kind": "ssn", "text": "My social is 954-55-0055 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-055"}
+{"kind": "ssn", "text": "My social is 955-56-0056 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-056"}
+{"kind": "ssn", "text": "My social is 956-57-0057 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-057"}
+{"kind": "ssn", "text": "My social is 957-58-0058 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-058"}
+{"kind": "ssn", "text": "My social is 958-59-0059 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-059"}
+{"kind": "ssn", "text": "My social is 959-60-0060 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-060"}
+{"kind": "ssn", "text": "My social is 960-61-0061 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-061"}
+{"kind": "ssn", "text": "My social is 961-62-0062 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-062"}
+{"kind": "ssn", "text": "My social is 962-63-0063 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-063"}
+{"kind": "ssn", "text": "My social is 963-64-0064 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-064"}
+{"kind": "ssn", "text": "My social is 964-65-0065 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-065"}
+{"kind": "ssn", "text": "My social is 965-66-0066 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-066"}
+{"kind": "ssn", "text": "My social is 966-67-0067 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-067"}
+{"kind": "ssn", "text": "My social is 967-68-0068 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-068"}
+{"kind": "ssn", "text": "My social is 968-69-0069 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-069"}
+{"kind": "ssn", "text": "My social is 969-70-0070 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-070"}
+{"kind": "ssn", "text": "My social is 970-71-0071 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-071"}
+{"kind": "ssn", "text": "My social is 971-72-0072 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-072"}
+{"kind": "ssn", "text": "My social is 972-73-0073 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-073"}
+{"kind": "ssn", "text": "My social is 973-74-0074 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-074"}
+{"kind": "ssn", "text": "My social is 974-75-0075 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-075"}
+{"kind": "ssn", "text": "My social is 975-76-0076 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-076"}
+{"kind": "ssn", "text": "My social is 976-77-0077 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-077"}
+{"kind": "ssn", "text": "My social is 977-78-0078 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-078"}
+{"kind": "ssn", "text": "My social is 978-79-0079 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-079"}
+{"kind": "ssn", "text": "My social is 979-80-0080 thanks", "expected_entities": {"SSN": 1}, "expected_redacted_text": "My social is [SSN] thanks", "id": "ssn-080"}
+{"kind": "ssn", "text": "ssn 900 02 0101 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-081"}
+{"kind": "ssn", "text": "ssn 901 03 0102 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-082"}
+{"kind": "ssn", "text": "ssn 902 04 0103 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-083"}
+{"kind": "ssn", "text": "ssn 903 05 0104 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-084"}
+{"kind": "ssn", "text": "ssn 904 06 0105 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-085"}
+{"kind": "ssn", "text": "ssn 905 07 0106 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-086"}
+{"kind": "ssn", "text": "ssn 906 08 0107 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-087"}
+{"kind": "ssn", "text": "ssn 907 09 0108 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-088"}
+{"kind": "ssn", "text": "ssn 908 10 0109 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-089"}
+{"kind": "ssn", "text": "ssn 909 11 0110 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-090"}
+{"kind": "ssn", "text": "ssn 910 12 0111 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-091"}
+{"kind": "ssn", "text": "ssn 911 13 0112 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-092"}
+{"kind": "ssn", "text": "ssn 912 14 0113 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-093"}
+{"kind": "ssn", "text": "ssn 913 15 0114 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-094"}
+{"kind": "ssn", "text": "ssn 914 16 0115 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-095"}
+{"kind": "ssn", "text": "ssn 915 17 0116 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-096"}
+{"kind": "ssn", "text": "ssn 916 18 0117 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-097"}
+{"kind": "ssn", "text": "ssn 917 19 0118 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-098"}
+{"kind": "ssn", "text": "ssn 918 20 0119 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-099"}
+{"kind": "ssn", "text": "ssn 919 21 0120 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-100"}
+{"kind": "ssn", "text": "ssn 920 22 0121 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-101"}
+{"kind": "ssn", "text": "ssn 921 23 0122 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-102"}
+{"kind": "ssn", "text": "ssn 922 24 0123 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-103"}
+{"kind": "ssn", "text": "ssn 923 25 0124 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-104"}
+{"kind": "ssn", "text": "ssn 924 26 0125 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-105"}
+{"kind": "ssn", "text": "ssn 925 27 0126 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-106"}
+{"kind": "ssn", "text": "ssn 926 28 0127 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-107"}
+{"kind": "ssn", "text": "ssn 927 29 0128 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-108"}
+{"kind": "ssn", "text": "ssn 928 30 0129 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-109"}
+{"kind": "ssn", "text": "ssn 929 31 0130 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-110"}
+{"kind": "ssn", "text": "ssn 930 32 0131 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-111"}
+{"kind": "ssn", "text": "ssn 931 33 0132 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-112"}
+{"kind": "ssn", "text": "ssn 932 34 0133 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-113"}
+{"kind": "ssn", "text": "ssn 933 35 0134 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-114"}
+{"kind": "ssn", "text": "ssn 934 36 0135 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-115"}
+{"kind": "ssn", "text": "ssn 935 37 0136 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-116"}
+{"kind": "ssn", "text": "ssn 936 38 0137 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-117"}
+{"kind": "ssn", "text": "ssn 937 39 0138 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-118"}
+{"kind": "ssn", "text": "ssn 938 40 0139 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-119"}
+{"kind": "ssn", "text": "ssn 939 41 0140 on the form", "expected_entities": {"SSN": 1}, "expected_redacted_text": "ssn [SSN] on the form", "id": "ssn-120"}
+{"kind": "ssn", "text": "the number is 900030201 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-121"}
+{"kind": "ssn", "text": "the number is 901040202 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-122"}
+{"kind": "ssn", "text": "the number is 902050203 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-123"}
+{"kind": "ssn", "text": "the number is 903060204 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-124"}
+{"kind": "ssn", "text": "the number is 904070205 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-125"}
+{"kind": "ssn", "text": "the number is 905080206 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-126"}
+{"kind": "ssn", "text": "the number is 906090207 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-127"}
+{"kind": "ssn", "text": "the number is 907100208 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-128"}
+{"kind": "ssn", "text": "the number is 908110209 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-129"}
+{"kind": "ssn", "text": "the number is 909120210 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-130"}
+{"kind": "ssn", "text": "the number is 910130211 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-131"}
+{"kind": "ssn", "text": "the number is 911140212 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-132"}
+{"kind": "ssn", "text": "the number is 912150213 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-133"}
+{"kind": "ssn", "text": "the number is 913160214 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-134"}
+{"kind": "ssn", "text": "the number is 914170215 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-135"}
+{"kind": "ssn", "text": "the number is 915180216 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-136"}
+{"kind": "ssn", "text": "the number is 916190217 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-137"}
+{"kind": "ssn", "text": "the number is 917200218 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-138"}
+{"kind": "ssn", "text": "the number is 918210219 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-139"}
+{"kind": "ssn", "text": "the number is 919220220 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-140"}
+{"kind": "ssn", "text": "the number is 920230221 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-141"}
+{"kind": "ssn", "text": "the number is 921240222 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-142"}
+{"kind": "ssn", "text": "the number is 922250223 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-143"}
+{"kind": "ssn", "text": "the number is 923260224 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-144"}
+{"kind": "ssn", "text": "the number is 924270225 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-145"}
+{"kind": "ssn", "text": "the number is 925280226 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-146"}
+{"kind": "ssn", "text": "the number is 926290227 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-147"}
+{"kind": "ssn", "text": "the number is 927300228 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-148"}
+{"kind": "ssn", "text": "the number is 928310229 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-149"}
+{"kind": "ssn", "text": "the number is 929320230 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-150"}
+{"kind": "ssn", "text": "the number is 930330231 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-151"}
+{"kind": "ssn", "text": "the number is 931340232 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-152"}
+{"kind": "ssn", "text": "the number is 932350233 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-153"}
+{"kind": "ssn", "text": "the number is 933360234 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-154"}
+{"kind": "ssn", "text": "the number is 934370235 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-155"}
+{"kind": "ssn", "text": "the number is 935380236 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-156"}
+{"kind": "ssn", "text": "the number is 936390237 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-157"}
+{"kind": "ssn", "text": "the number is 937400238 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-158"}
+{"kind": "ssn", "text": "the number is 938410239 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-159"}
+{"kind": "ssn", "text": "the number is 939420240 end", "expected_entities": {"SSN": 1}, "expected_redacted_text": "the number is [SSN] end", "id": "ssn-160"}
+{"kind": "ssn", "text": "spelled out it is zero one two three four five six seven eight ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-161"}
+{"kind": "ssn", "text": "spelled out it is one two three four five six seven eight nine ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-162"}
+{"kind": "ssn", "text": "spelled out it is two three four five six seven eight nine zero ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-163"}
+{"kind": "ssn", "text": "spelled out it is three four five six seven eight nine zero one ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-164"}
+{"kind": "ssn", "text": "spelled out it is four five six seven eight nine zero one two ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-165"}
+{"kind": "ssn", "text": "spelled out it is five six seven eight nine zero one two three ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-166"}
+{"kind": "ssn", "text": "spelled out it is six seven eight nine zero one two three four ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-167"}
+{"kind": "ssn", "text": "spelled out it is seven eight nine zero one two three four five ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-168"}
+{"kind": "ssn", "text": "spelled out it is eight nine zero one two three four five six ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-169"}
+{"kind": "ssn", "text": "spelled out it is nine zero one two three four five six seven ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-170"}
+{"kind": "ssn", "text": "spelled out it is zero one two three four five six seven eight ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-171"}
+{"kind": "ssn", "text": "spelled out it is one two three four five six seven eight nine ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-172"}
+{"kind": "ssn", "text": "spelled out it is two three four five six seven eight nine zero ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-173"}
+{"kind": "ssn", "text": "spelled out it is three four five six seven eight nine zero one ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-174"}
+{"kind": "ssn", "text": "spelled out it is four five six seven eight nine zero one two ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-175"}
+{"kind": "ssn", "text": "spelled out it is five six seven eight nine zero one two three ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-176"}
+{"kind": "ssn", "text": "spelled out it is six seven eight nine zero one two three four ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-177"}
+{"kind": "ssn", "text": "spelled out it is seven eight nine zero one two three four five ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-178"}
+{"kind": "ssn", "text": "spelled out it is eight nine zero one two three four five six ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-179"}
+{"kind": "ssn", "text": "spelled out it is nine zero one two three four five six seven ok", "expected_entities": {"SSN": 1}, "expected_redacted_text": "spelled out it is [SSN] ok", "id": "ssn-180"}
+{"kind": "ssn", "text": "first 900-04-0301 and second 900-05-0401", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-181"}
+{"kind": "ssn", "text": "first 901-05-0302 and second 901-06-0402", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-182"}
+{"kind": "ssn", "text": "first 902-06-0303 and second 902-07-0403", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-183"}
+{"kind": "ssn", "text": "first 903-07-0304 and second 903-08-0404", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-184"}
+{"kind": "ssn", "text": "first 904-08-0305 and second 904-09-0405", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-185"}
+{"kind": "ssn", "text": "first 905-09-0306 and second 905-10-0406", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-186"}
+{"kind": "ssn", "text": "first 906-10-0307 and second 906-11-0407", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-187"}
+{"kind": "ssn", "text": "first 907-11-0308 and second 907-12-0408", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-188"}
+{"kind": "ssn", "text": "first 908-12-0309 and second 908-13-0409", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-189"}
+{"kind": "ssn", "text": "first 909-13-0310 and second 909-14-0410", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-190"}
+{"kind": "ssn", "text": "first 910-14-0311 and second 910-15-0411", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-191"}
+{"kind": "ssn", "text": "first 911-15-0312 and second 911-16-0412", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-192"}
+{"kind": "ssn", "text": "first 912-16-0313 and second 912-17-0413", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-193"}
+{"kind": "ssn", "text": "first 913-17-0314 and second 913-18-0414", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-194"}
+{"kind": "ssn", "text": "first 914-18-0315 and second 914-19-0415", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-195"}
+{"kind": "ssn", "text": "first 915-19-0316 and second 915-20-0416", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-196"}
+{"kind": "ssn", "text": "first 916-20-0317 and second 916-21-0417", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-197"}
+{"kind": "ssn", "text": "first 917-21-0318 and second 917-22-0418", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-198"}
+{"kind": "ssn", "text": "first 918-22-0319 and second 918-23-0419", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-199"}
+{"kind": "ssn", "text": "first 919-23-0320 and second 919-24-0420", "expected_entities": {"SSN": 2}, "expected_redacted_text": "first [SSN] and second [SSN]", "id": "ssn-200"}
+{"kind": "ssn", "text": "Call 415-555-0100 about 900-06-0501", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0100 about [SSN]", "id": "ssn-201"}
+{"kind": "ssn", "text": "Call 415-555-0101 about 901-07-0502", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0101 about [SSN]", "id": "ssn-202"}
+{"kind": "ssn", "text": "Call 415-555-0102 about 902-08-0503", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0102 about [SSN]", "id": "ssn-203"}
+{"kind": "ssn", "text": "Call 415-555-0103 about 903-09-0504", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0103 about [SSN]", "id": "ssn-204"}
+{"kind": "ssn", "text": "Call 415-555-0104 about 904-10-0505", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0104 about [SSN]", "id": "ssn-205"}
+{"kind": "ssn", "text": "Call 415-555-0105 about 905-11-0506", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0105 about [SSN]", "id": "ssn-206"}
+{"kind": "ssn", "text": "Call 415-555-0106 about 906-12-0507", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0106 about [SSN]", "id": "ssn-207"}
+{"kind": "ssn", "text": "Call 415-555-0107 about 907-13-0508", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0107 about [SSN]", "id": "ssn-208"}
+{"kind": "ssn", "text": "Call 415-555-0108 about 908-14-0509", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0108 about [SSN]", "id": "ssn-209"}
+{"kind": "ssn", "text": "Call 415-555-0109 about 909-15-0510", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0109 about [SSN]", "id": "ssn-210"}
+{"kind": "ssn", "text": "Call 415-555-0110 about 910-16-0511", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0110 about [SSN]", "id": "ssn-211"}
+{"kind": "ssn", "text": "Call 415-555-0111 about 911-17-0512", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0111 about [SSN]", "id": "ssn-212"}
+{"kind": "ssn", "text": "Call 415-555-0112 about 912-18-0513", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0112 about [SSN]", "id": "ssn-213"}
+{"kind": "ssn", "text": "Call 415-555-0113 about 913-19-0514", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0113 about [SSN]", "id": "ssn-214"}
+{"kind": "ssn", "text": "Call 415-555-0114 about 914-20-0515", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0114 about [SSN]", "id": "ssn-215"}
+{"kind": "ssn", "text": "Call 415-555-0115 about 915-21-0516", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0115 about [SSN]", "id": "ssn-216"}
+{"kind": "ssn", "text": "Call 415-555-0116 about 916-22-0517", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0116 about [SSN]", "id": "ssn-217"}
+{"kind": "ssn", "text": "Call 415-555-0117 about 917-23-0518", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0117 about [SSN]", "id": "ssn-218"}
+{"kind": "ssn", "text": "Call 415-555-0118 about 918-24-0519", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0118 about [SSN]", "id": "ssn-219"}
+{"kind": "ssn", "text": "Call 415-555-0119 about 919-25-0520", "expected_entities": {"SSN": 1}, "expected_redacted_text": "Call 415-555-0119 about [SSN]", "id": "ssn-220"}
+{"kind": "dob", "text": "born 1/1/1920", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-221"}
+{"kind": "dob", "text": "date of birth 2/2/1921", "expected_entities": {"DOB": 1}, "expected_redacted_text": "date of birth [DOB]", "id": "dob-222"}
+{"kind": "dob", "text": "dob 3/3/1922", "expected_entities": {"DOB": 1}, "expected_redacted_text": "dob [DOB]", "id": "dob-223"}
+{"kind": "dob", "text": "birthday 4/4/1923", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthday [DOB]", "id": "dob-224"}
+{"kind": "dob", "text": "birthdate 5/5/1924", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthdate [DOB]", "id": "dob-225"}
+{"kind": "dob", "text": "born 6/6/1925", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-226"}
+{"kind": "dob", "text": "born 7/7/1926", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-227"}
+{"kind": "dob", "text": "date of birth 8/8/1927", "expected_entities": {"DOB": 1}, "expected_redacted_text": "date of birth [DOB]", "id": "dob-228"}
+{"kind": "dob", "text": "date of birth 09/09/1928", "expected_entities": {"DOB": 1}, "expected_redacted_text": "date of birth [DOB]", "id": "dob-229"}
+{"kind": "dob", "text": "dob 10/10/1929", "expected_entities": {"DOB": 1}, "expected_redacted_text": "dob [DOB]", "id": "dob-230"}
+{"kind": "dob", "text": "birthday 11/11/1930", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthday [DOB]", "id": "dob-231"}
+{"kind": "dob", "text": "birthdate 12/12/1931", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthdate [DOB]", "id": "dob-232"}
+{"kind": "dob", "text": "born 01/13/1932", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-233"}
+{"kind": "dob", "text": "born 02/14/1933", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-234"}
+{"kind": "dob", "text": "date of birth 03/15/1934", "expected_entities": {"DOB": 1}, "expected_redacted_text": "date of birth [DOB]", "id": "dob-235"}
+{"kind": "dob", "text": "dob 04/16/1935", "expected_entities": {"DOB": 1}, "expected_redacted_text": "dob [DOB]", "id": "dob-236"}
+{"kind": "dob", "text": "dob 05-17-1936", "expected_entities": {"DOB": 1}, "expected_redacted_text": "dob [DOB]", "id": "dob-237"}
+{"kind": "dob", "text": "birthday 06-18-1937", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthday [DOB]", "id": "dob-238"}
+{"kind": "dob", "text": "birthdate 07-19-1938", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthdate [DOB]", "id": "dob-239"}
+{"kind": "dob", "text": "born 08-20-1939", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-240"}
+{"kind": "dob", "text": "born 09-21-1940", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-241"}
+{"kind": "dob", "text": "date of birth 10-22-1941", "expected_entities": {"DOB": 1}, "expected_redacted_text": "date of birth [DOB]", "id": "dob-242"}
+{"kind": "dob", "text": "dob 11-23-1942", "expected_entities": {"DOB": 1}, "expected_redacted_text": "dob [DOB]", "id": "dob-243"}
+{"kind": "dob", "text": "birthday 12-24-1943", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthday [DOB]", "id": "dob-244"}
+{"kind": "dob", "text": "birthday 1944-01-25", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthday [DOB]", "id": "dob-245"}
+{"kind": "dob", "text": "birthdate 1945-02-26", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthdate [DOB]", "id": "dob-246"}
+{"kind": "dob", "text": "born 1946-03-27", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-247"}
+{"kind": "dob", "text": "born 1947-04-28", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-248"}
+{"kind": "dob", "text": "date of birth 1948-05-01", "expected_entities": {"DOB": 1}, "expected_redacted_text": "date of birth [DOB]", "id": "dob-249"}
+{"kind": "dob", "text": "dob 1949-06-02", "expected_entities": {"DOB": 1}, "expected_redacted_text": "dob [DOB]", "id": "dob-250"}
+{"kind": "dob", "text": "birthday 1950-07-03", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthday [DOB]", "id": "dob-251"}
+{"kind": "dob", "text": "birthdate 1951-08-04", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthdate [DOB]", "id": "dob-252"}
+{"kind": "dob", "text": "birthdate September 5, 1952", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthdate [DOB]", "id": "dob-253"}
+{"kind": "dob", "text": "born October 6, 1953", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-254"}
+{"kind": "dob", "text": "born November 7, 1954", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-255"}
+{"kind": "dob", "text": "date of birth December 8, 1955", "expected_entities": {"DOB": 1}, "expected_redacted_text": "date of birth [DOB]", "id": "dob-256"}
+{"kind": "dob", "text": "dob January 9, 1956", "expected_entities": {"DOB": 1}, "expected_redacted_text": "dob [DOB]", "id": "dob-257"}
+{"kind": "dob", "text": "birthday February 10, 1957", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthday [DOB]", "id": "dob-258"}
+{"kind": "dob", "text": "birthdate March 11, 1958", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthdate [DOB]", "id": "dob-259"}
+{"kind": "dob", "text": "born April 12, 1959", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-260"}
+{"kind": "dob", "text": "born May 13th 1960", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-261"}
+{"kind": "dob", "text": "born Jun 14th 1961", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-262"}
+{"kind": "dob", "text": "date of birth Jul 15th 1962", "expected_entities": {"DOB": 1}, "expected_redacted_text": "date of birth [DOB]", "id": "dob-263"}
+{"kind": "dob", "text": "dob Aug 16th 1963", "expected_entities": {"DOB": 1}, "expected_redacted_text": "dob [DOB]", "id": "dob-264"}
+{"kind": "dob", "text": "birthday Sep 17th 1964", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthday [DOB]", "id": "dob-265"}
+{"kind": "dob", "text": "birthdate Oct 18th 1965", "expected_entities": {"DOB": 1}, "expected_redacted_text": "birthdate [DOB]", "id": "dob-266"}
+{"kind": "dob", "text": "born Nov 19th 1966", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-267"}
+{"kind": "dob", "text": "born Dec 20th 1967", "expected_entities": {"DOB": 1}, "expected_redacted_text": "born [DOB]", "id": "dob-268"}
+{"kind": "negative", "text": "see you on 01/01/1920", "expected_entities": {}, "expected_redacted_text": "see you on 01/01/1920", "id": "negative-269"}
+{"kind": "negative", "text": "see you on 02/02/1921", "expected_entities": {}, "expected_redacted_text": "see you on 02/02/1921", "id": "negative-270"}
+{"kind": "negative", "text": "see you on 03/03/1922", "expected_entities": {}, "expected_redacted_text": "see you on 03/03/1922", "id": "negative-271"}
+{"kind": "negative", "text": "see you on 04/04/1923", "expected_entities": {}, "expected_redacted_text": "see you on 04/04/1923", "id": "negative-272"}
+{"kind": "negative", "text": "see you on 05/05/1924", "expected_entities": {}, "expected_redacted_text": "see you on 05/05/1924", "id": "negative-273"}
+{"kind": "negative", "text": "see you on 06/06/1925", "expected_entities": {}, "expected_redacted_text": "see you on 06/06/1925", "id": "negative-274"}
+{"kind": "negative", "text": "see you on 07/07/1926", "expected_entities": {}, "expected_redacted_text": "see you on 07/07/1926", "id": "negative-275"}
+{"kind": "negative", "text": "see you on 08/08/1927", "expected_entities": {}, "expected_redacted_text": "see you on 08/08/1927", "id": "negative-276"}
+{"kind": "negative", "text": "see you on 09/09/1928", "expected_entities": {}, "expected_redacted_text": "see you on 09/09/1928", "id": "negative-277"}
+{"kind": "negative", "text": "see you on 10/10/1929", "expected_entities": {}, "expected_redacted_text": "see you on 10/10/1929", "id": "negative-278"}
+{"kind": "negative", "text": "see you on 11/11/1930", "expected_entities": {}, "expected_redacted_text": "see you on 11/11/1930", "id": "negative-279"}
+{"kind": "negative", "text": "see you on 12/12/1931", "expected_entities": {}, "expected_redacted_text": "see you on 12/12/1931", "id": "negative-280"}
+{"kind": "negative", "text": "born 01/01/2011", "expected_entities": {}, "expected_redacted_text": "born 01/01/2011", "id": "negative-281"}
+{"kind": "negative", "text": "born 02/02/2012", "expected_entities": {}, "expected_redacted_text": "born 02/02/2012", "id": "negative-282"}
+{"kind": "negative", "text": "born 03/03/2013", "expected_entities": {}, "expected_redacted_text": "born 03/03/2013", "id": "negative-283"}
+{"kind": "negative", "text": "born 04/04/2014", "expected_entities": {}, "expected_redacted_text": "born 04/04/2014", "id": "negative-284"}
+{"kind": "negative", "text": "born 05/05/2015", "expected_entities": {}, "expected_redacted_text": "born 05/05/2015", "id": "negative-285"}
+{"kind": "negative", "text": "born 06/06/2016", "expected_entities": {}, "expected_redacted_text": "born 06/06/2016", "id": "negative-286"}
+{"kind": "negative", "text": "born 07/07/2017", "expected_entities": {}, "expected_redacted_text": "born 07/07/2017", "id": "negative-287"}
+{"kind": "negative", "text": "born 08/08/2018", "expected_entities": {}, "expected_redacted_text": "born 08/08/2018", "id": "negative-288"}
+{"kind": "negative", "text": "born 09/09/2019", "expected_entities": {}, "expected_redacted_text": "born 09/09/2019", "id": "negative-289"}
+{"kind": "negative", "text": "born 10/10/2020", "expected_entities": {}, "expected_redacted_text": "born 10/10/2020", "id": "negative-290"}
+{"kind": "negative", "text": "born 11/11/2011", "expected_entities": {}, "expected_redacted_text": "born 11/11/2011", "id": "negative-291"}
+{"kind": "negative", "text": "born 12/12/2012", "expected_entities": {}, "expected_redacted_text": "born 12/12/2012", "id": "negative-292"}
+{"kind": "negative", "text": "born 1/1/1900", "expected_entities": {}, "expected_redacted_text": "born 1/1/1900", "id": "negative-293"}
+{"kind": "negative", "text": "born 2/2/1901", "expected_entities": {}, "expected_redacted_text": "born 2/2/1901", "id": "negative-294"}
+{"kind": "negative", "text": "born 3/3/1902", "expected_entities": {}, "expected_redacted_text": "born 3/3/1902", "id": "negative-295"}
+{"kind": "negative", "text": "born 4/4/1903", "expected_entities": {}, "expected_redacted_text": "born 4/4/1903", "id": "negative-296"}
+{"kind": "negative", "text": "born 5/5/1904", "expected_entities": {}, "expected_redacted_text": "born 5/5/1904", "id": "negative-297"}
+{"kind": "negative", "text": "born 6/6/1905", "expected_entities": {}, "expected_redacted_text": "born 6/6/1905", "id": "negative-298"}
+{"kind": "negative", "text": "born 7/7/1906", "expected_entities": {}, "expected_redacted_text": "born 7/7/1906", "id": "negative-299"}
+{"kind": "negative", "text": "born 8/8/1907", "expected_entities": {}, "expected_redacted_text": "born 8/8/1907", "id": "negative-300"}
+{"kind": "negative", "text": "born 9/9/1908", "expected_entities": {}, "expected_redacted_text": "born 9/9/1908", "id": "negative-301"}
+{"kind": "negative", "text": "born 10/10/1909", "expected_entities": {}, "expected_redacted_text": "born 10/10/1909", "id": "negative-302"}
+{"kind": "negative", "text": "born 11/11/1910", "expected_entities": {}, "expected_redacted_text": "born 11/11/1910", "id": "negative-303"}
+{"kind": "negative", "text": "born 12/12/1911", "expected_entities": {}, "expected_redacted_text": "born 12/12/1911", "id": "negative-304"}
+{"kind": "bank", "text": "routing number 900000003", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-305"}
+{"kind": "bank", "text": "routing number 900000016", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-306"}
+{"kind": "bank", "text": "routing number 900000029", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-307"}
+{"kind": "bank", "text": "routing number 900000032", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-308"}
+{"kind": "bank", "text": "routing number 900000045", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-309"}
+{"kind": "bank", "text": "routing number 900000058", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-310"}
+{"kind": "bank", "text": "routing number 900000061", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-311"}
+{"kind": "bank", "text": "routing number 900000074", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-312"}
+{"kind": "bank", "text": "routing number 900000087", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-313"}
+{"kind": "bank", "text": "routing number 900000090", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-314"}
+{"kind": "bank", "text": "routing number 900000100", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-315"}
+{"kind": "bank", "text": "routing number 900000113", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-316"}
+{"kind": "bank", "text": "routing number 900000126", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-317"}
+{"kind": "bank", "text": "routing number 900000139", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-318"}
+{"kind": "bank", "text": "routing number 900000142", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-319"}
+{"kind": "bank", "text": "routing number 900000155", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-320"}
+{"kind": "bank", "text": "routing number 900000168", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-321"}
+{"kind": "bank", "text": "routing number 900000171", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-322"}
+{"kind": "bank", "text": "routing number 900000184", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-323"}
+{"kind": "bank", "text": "routing number 900000197", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-324"}
+{"kind": "bank", "text": "routing number 900000207", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-325"}
+{"kind": "bank", "text": "routing number 900000210", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-326"}
+{"kind": "bank", "text": "routing number 900000223", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-327"}
+{"kind": "bank", "text": "routing number 900000236", "expected_entities": {"BANK": 1}, "expected_redacted_text": "routing number [BANK]", "id": "bank-328"}
+{"kind": "bank", "text": "account number 770000000000", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-329"}
+{"kind": "bank", "text": "account number 770000000001", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-330"}
+{"kind": "bank", "text": "account number 770000000002", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-331"}
+{"kind": "bank", "text": "account number 770000000003", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-332"}
+{"kind": "bank", "text": "account number 770000000004", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-333"}
+{"kind": "bank", "text": "account number 770000000005", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-334"}
+{"kind": "bank", "text": "account number 770000000006", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-335"}
+{"kind": "bank", "text": "account number 770000000007", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-336"}
+{"kind": "bank", "text": "account number 770000000008", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-337"}
+{"kind": "bank", "text": "account number 770000000009", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-338"}
+{"kind": "bank", "text": "account number 770000000010", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-339"}
+{"kind": "bank", "text": "account number 770000000011", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-340"}
+{"kind": "bank", "text": "account number 770000000012", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-341"}
+{"kind": "bank", "text": "account number 770000000013", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-342"}
+{"kind": "bank", "text": "account number 770000000014", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-343"}
+{"kind": "bank", "text": "account number 770000000015", "expected_entities": {"BANK": 1}, "expected_redacted_text": "account number [BANK]", "id": "bank-344"}
+{"kind": "negative", "text": "routing number 910000007", "expected_entities": {}, "expected_redacted_text": "routing number 910000007", "id": "negative-345"}
+{"kind": "negative", "text": "routing number 910000010", "expected_entities": {}, "expected_redacted_text": "routing number 910000010", "id": "negative-346"}
+{"kind": "negative", "text": "routing number 910000023", "expected_entities": {}, "expected_redacted_text": "routing number 910000023", "id": "negative-347"}
+{"kind": "negative", "text": "routing number 910000036", "expected_entities": {}, "expected_redacted_text": "routing number 910000036", "id": "negative-348"}
+{"kind": "negative", "text": "routing number 910000049", "expected_entities": {}, "expected_redacted_text": "routing number 910000049", "id": "negative-349"}
+{"kind": "negative", "text": "routing number 910000052", "expected_entities": {}, "expected_redacted_text": "routing number 910000052", "id": "negative-350"}
+{"kind": "negative", "text": "routing number 910000065", "expected_entities": {}, "expected_redacted_text": "routing number 910000065", "id": "negative-351"}
+{"kind": "negative", "text": "routing number 910000078", "expected_entities": {}, "expected_redacted_text": "routing number 910000078", "id": "negative-352"}
+{"kind": "negative", "text": "routing number 910000081", "expected_entities": {}, "expected_redacted_text": "routing number 910000081", "id": "negative-353"}
+{"kind": "negative", "text": "routing number 910000094", "expected_entities": {}, "expected_redacted_text": "routing number 910000094", "id": "negative-354"}
+{"kind": "negative", "text": "routing number 910000104", "expected_entities": {}, "expected_redacted_text": "routing number 910000104", "id": "negative-355"}
+{"kind": "negative", "text": "routing number 910000117", "expected_entities": {}, "expected_redacted_text": "routing number 910000117", "id": "negative-356"}
+{"kind": "card", "text": "card 4111111111111111 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-357"}
+{"kind": "card", "text": "card 5500000000000004 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-358"}
+{"kind": "card", "text": "card 340000000000009 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-359"}
+{"kind": "card", "text": "card 6011000000000004 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-360"}
+{"kind": "card", "text": "card 4000000000000002 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-361"}
+{"kind": "card", "text": "card 4111111111111111 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-362"}
+{"kind": "card", "text": "card 4111111111111111 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-363"}
+{"kind": "card", "text": "card 5500000000000004 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-364"}
+{"kind": "card", "text": "card 340000000000009 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-365"}
+{"kind": "card", "text": "card 6011000000000004 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-366"}
+{"kind": "card", "text": "card 4000000000000002 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-367"}
+{"kind": "card", "text": "card 4111111111111111 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-368"}
+{"kind": "card", "text": "card 4111-1111-1111-1111 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-369"}
+{"kind": "card", "text": "card 5500-0000-0000-0004 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-370"}
+{"kind": "card", "text": "card 3400-0000-0000-009 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-371"}
+{"kind": "card", "text": "card 6011-0000-0000-0004 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-372"}
+{"kind": "card", "text": "card 4000-0000-0000-0002 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-373"}
+{"kind": "card", "text": "card 4111-1111-1111-1111 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-374"}
+{"kind": "card", "text": "card 4111-1111-1111-1111 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-375"}
+{"kind": "card", "text": "card 5500-0000-0000-0004 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-376"}
+{"kind": "card", "text": "card 3400-0000-0000-009 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-377"}
+{"kind": "card", "text": "card 6011-0000-0000-0004 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-378"}
+{"kind": "card", "text": "card 4000-0000-0000-0002 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-379"}
+{"kind": "card", "text": "card 4111-1111-1111-1111 on file", "expected_entities": {"CARD": 1}, "expected_redacted_text": "card [CARD] on file", "id": "card-380"}
+{"kind": "id", "text": "passport number 100000000", "expected_entities": {"ID": 1}, "expected_redacted_text": "passport number [ID]", "id": "id-381"}
+{"kind": "id", "text": "passport number 100000001", "expected_entities": {"ID": 1}, "expected_redacted_text": "passport number [ID]", "id": "id-382"}
+{"kind": "id", "text": "passport number 100000002", "expected_entities": {"ID": 1}, "expected_redacted_text": "passport number [ID]", "id": "id-383"}
+{"kind": "id", "text": "passport number 100000003", "expected_entities": {"ID": 1}, "expected_redacted_text": "passport number [ID]", "id": "id-384"}
+{"kind": "id", "text": "passport number 100000004", "expected_entities": {"ID": 1}, "expected_redacted_text": "passport number [ID]", "id": "id-385"}
+{"kind": "id", "text": "passport number 100000005", "expected_entities": {"ID": 1}, "expected_redacted_text": "passport number [ID]", "id": "id-386"}
+{"kind": "id", "text": "passport number 100000006", "expected_entities": {"ID": 1}, "expected_redacted_text": "passport number [ID]", "id": "id-387"}
+{"kind": "id", "text": "passport number 100000007", "expected_entities": {"ID": 1}, "expected_redacted_text": "passport number [ID]", "id": "id-388"}
+{"kind": "id", "text": "driver license D1000000", "expected_entities": {"ID": 1}, "expected_redacted_text": "driver license [ID]", "id": "id-389"}
+{"kind": "id", "text": "driver license D1000001", "expected_entities": {"ID": 1}, "expected_redacted_text": "driver license [ID]", "id": "id-390"}
+{"kind": "id", "text": "driver license D1000002", "expected_entities": {"ID": 1}, "expected_redacted_text": "driver license [ID]", "id": "id-391"}
+{"kind": "id", "text": "driver license D1000003", "expected_entities": {"ID": 1}, "expected_redacted_text": "driver license [ID]", "id": "id-392"}
+{"kind": "id", "text": "driver license D1000004", "expected_entities": {"ID": 1}, "expected_redacted_text": "driver license [ID]", "id": "id-393"}
+{"kind": "id", "text": "driver license D1000005", "expected_entities": {"ID": 1}, "expected_redacted_text": "driver license [ID]", "id": "id-394"}
+{"kind": "id", "text": "driver license D1000006", "expected_entities": {"ID": 1}, "expected_redacted_text": "driver license [ID]", "id": "id-395"}
+{"kind": "id", "text": "driver license D1000007", "expected_entities": {"ID": 1}, "expected_redacted_text": "driver license [ID]", "id": "id-396"}
+{"kind": "negative", "text": "Call 212-555-2000 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2000 tomorrow", "id": "negative-397"}
+{"kind": "negative", "text": "Call 212-555-2001 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2001 tomorrow", "id": "negative-398"}
+{"kind": "negative", "text": "Call 212-555-2002 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2002 tomorrow", "id": "negative-399"}
+{"kind": "negative", "text": "Call 212-555-2003 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2003 tomorrow", "id": "negative-400"}
+{"kind": "negative", "text": "Call 212-555-2004 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2004 tomorrow", "id": "negative-401"}
+{"kind": "negative", "text": "Call 212-555-2005 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2005 tomorrow", "id": "negative-402"}
+{"kind": "negative", "text": "Call 212-555-2006 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2006 tomorrow", "id": "negative-403"}
+{"kind": "negative", "text": "Call 212-555-2007 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2007 tomorrow", "id": "negative-404"}
+{"kind": "negative", "text": "Call 212-555-2008 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2008 tomorrow", "id": "negative-405"}
+{"kind": "negative", "text": "Call 212-555-2009 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2009 tomorrow", "id": "negative-406"}
+{"kind": "negative", "text": "Call 212-555-2010 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2010 tomorrow", "id": "negative-407"}
+{"kind": "negative", "text": "Call 212-555-2011 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2011 tomorrow", "id": "negative-408"}
+{"kind": "negative", "text": "Call 212-555-2012 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2012 tomorrow", "id": "negative-409"}
+{"kind": "negative", "text": "Call 212-555-2013 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2013 tomorrow", "id": "negative-410"}
+{"kind": "negative", "text": "Call 212-555-2014 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2014 tomorrow", "id": "negative-411"}
+{"kind": "negative", "text": "Call 212-555-2015 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2015 tomorrow", "id": "negative-412"}
+{"kind": "negative", "text": "Call 212-555-2016 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2016 tomorrow", "id": "negative-413"}
+{"kind": "negative", "text": "Call 212-555-2017 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2017 tomorrow", "id": "negative-414"}
+{"kind": "negative", "text": "Call 212-555-2018 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2018 tomorrow", "id": "negative-415"}
+{"kind": "negative", "text": "Call 212-555-2019 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2019 tomorrow", "id": "negative-416"}
+{"kind": "negative", "text": "Call 212-555-2020 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2020 tomorrow", "id": "negative-417"}
+{"kind": "negative", "text": "Call 212-555-2021 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2021 tomorrow", "id": "negative-418"}
+{"kind": "negative", "text": "Call 212-555-2022 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2022 tomorrow", "id": "negative-419"}
+{"kind": "negative", "text": "Call 212-555-2023 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2023 tomorrow", "id": "negative-420"}
+{"kind": "negative", "text": "Call 212-555-2024 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2024 tomorrow", "id": "negative-421"}
+{"kind": "negative", "text": "Call 212-555-2025 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2025 tomorrow", "id": "negative-422"}
+{"kind": "negative", "text": "Call 212-555-2026 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2026 tomorrow", "id": "negative-423"}
+{"kind": "negative", "text": "Call 212-555-2027 tomorrow", "expected_entities": {}, "expected_redacted_text": "Call 212-555-2027 tomorrow", "id": "negative-424"}
+{"kind": "negative", "text": "email me at user0@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user0@example.com", "id": "negative-425"}
+{"kind": "negative", "text": "email me at user1@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user1@example.com", "id": "negative-426"}
+{"kind": "negative", "text": "email me at user2@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user2@example.com", "id": "negative-427"}
+{"kind": "negative", "text": "email me at user3@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user3@example.com", "id": "negative-428"}
+{"kind": "negative", "text": "email me at user4@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user4@example.com", "id": "negative-429"}
+{"kind": "negative", "text": "email me at user5@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user5@example.com", "id": "negative-430"}
+{"kind": "negative", "text": "email me at user6@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user6@example.com", "id": "negative-431"}
+{"kind": "negative", "text": "email me at user7@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user7@example.com", "id": "negative-432"}
+{"kind": "negative", "text": "email me at user8@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user8@example.com", "id": "negative-433"}
+{"kind": "negative", "text": "email me at user9@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user9@example.com", "id": "negative-434"}
+{"kind": "negative", "text": "email me at user10@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user10@example.com", "id": "negative-435"}
+{"kind": "negative", "text": "email me at user11@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user11@example.com", "id": "negative-436"}
+{"kind": "negative", "text": "email me at user12@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user12@example.com", "id": "negative-437"}
+{"kind": "negative", "text": "email me at user13@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user13@example.com", "id": "negative-438"}
+{"kind": "negative", "text": "email me at user14@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user14@example.com", "id": "negative-439"}
+{"kind": "negative", "text": "email me at user15@example.com", "expected_entities": {}, "expected_redacted_text": "email me at user15@example.com", "id": "negative-440"}
+{"kind": "negative", "text": "zip+4 is 10000-1000", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10000-1000", "id": "negative-441"}
+{"kind": "negative", "text": "zip+4 is 10001-1001", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10001-1001", "id": "negative-442"}
+{"kind": "negative", "text": "zip+4 is 10002-1002", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10002-1002", "id": "negative-443"}
+{"kind": "negative", "text": "zip+4 is 10003-1003", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10003-1003", "id": "negative-444"}
+{"kind": "negative", "text": "zip+4 is 10004-1004", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10004-1004", "id": "negative-445"}
+{"kind": "negative", "text": "zip+4 is 10005-1005", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10005-1005", "id": "negative-446"}
+{"kind": "negative", "text": "zip+4 is 10006-1006", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10006-1006", "id": "negative-447"}
+{"kind": "negative", "text": "zip+4 is 10007-1007", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10007-1007", "id": "negative-448"}
+{"kind": "negative", "text": "zip+4 is 10008-1008", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10008-1008", "id": "negative-449"}
+{"kind": "negative", "text": "zip+4 is 10009-1009", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10009-1009", "id": "negative-450"}
+{"kind": "negative", "text": "zip+4 is 10010-1010", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10010-1010", "id": "negative-451"}
+{"kind": "negative", "text": "zip+4 is 10011-1011", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10011-1011", "id": "negative-452"}
+{"kind": "negative", "text": "zip+4 is 10012-1012", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10012-1012", "id": "negative-453"}
+{"kind": "negative", "text": "zip+4 is 10013-1013", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10013-1013", "id": "negative-454"}
+{"kind": "negative", "text": "zip+4 is 10014-1014", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10014-1014", "id": "negative-455"}
+{"kind": "negative", "text": "zip+4 is 10015-1015", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10015-1015", "id": "negative-456"}
+{"kind": "negative", "text": "zip+4 is 10016-1016", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10016-1016", "id": "negative-457"}
+{"kind": "negative", "text": "zip+4 is 10017-1017", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10017-1017", "id": "negative-458"}
+{"kind": "negative", "text": "zip+4 is 10018-1018", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10018-1018", "id": "negative-459"}
+{"kind": "negative", "text": "zip+4 is 10019-1019", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10019-1019", "id": "negative-460"}
+{"kind": "negative", "text": "zip+4 is 10020-1020", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10020-1020", "id": "negative-461"}
+{"kind": "negative", "text": "zip+4 is 10021-1021", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10021-1021", "id": "negative-462"}
+{"kind": "negative", "text": "zip+4 is 10022-1022", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10022-1022", "id": "negative-463"}
+{"kind": "negative", "text": "zip+4 is 10023-1023", "expected_entities": {}, "expected_redacted_text": "zip+4 is 10023-1023", "id": "negative-464"}
+{"kind": "negative", "text": "order 100000", "expected_entities": {}, "expected_redacted_text": "order 100000", "id": "negative-465"}
+{"kind": "negative", "text": "order 100001", "expected_entities": {}, "expected_redacted_text": "order 100001", "id": "negative-466"}
+{"kind": "negative", "text": "order 100002", "expected_entities": {}, "expected_redacted_text": "order 100002", "id": "negative-467"}
+{"kind": "negative", "text": "order 100003", "expected_entities": {}, "expected_redacted_text": "order 100003", "id": "negative-468"}
+{"kind": "negative", "text": "order 100004", "expected_entities": {}, "expected_redacted_text": "order 100004", "id": "negative-469"}
+{"kind": "negative", "text": "order 100005", "expected_entities": {}, "expected_redacted_text": "order 100005", "id": "negative-470"}
+{"kind": "negative", "text": "order 100006", "expected_entities": {}, "expected_redacted_text": "order 100006", "id": "negative-471"}
+{"kind": "negative", "text": "order 100007", "expected_entities": {}, "expected_redacted_text": "order 100007", "id": "negative-472"}
+{"kind": "negative", "text": "order 10000000", "expected_entities": {}, "expected_redacted_text": "order 10000000", "id": "negative-473"}
+{"kind": "negative", "text": "order 10000001", "expected_entities": {}, "expected_redacted_text": "order 10000001", "id": "negative-474"}
+{"kind": "negative", "text": "order 10000002", "expected_entities": {}, "expected_redacted_text": "order 10000002", "id": "negative-475"}
+{"kind": "negative", "text": "order 10000003", "expected_entities": {}, "expected_redacted_text": "order 10000003", "id": "negative-476"}
+{"kind": "negative", "text": "order 10000004", "expected_entities": {}, "expected_redacted_text": "order 10000004", "id": "negative-477"}
+{"kind": "negative", "text": "order 10000005", "expected_entities": {}, "expected_redacted_text": "order 10000005", "id": "negative-478"}
+{"kind": "negative", "text": "order 10000006", "expected_entities": {}, "expected_redacted_text": "order 10000006", "id": "negative-479"}
+{"kind": "negative", "text": "order 10000007", "expected_entities": {}, "expected_redacted_text": "order 10000007", "id": "negative-480"}
+{"kind": "negative", "text": "order A100000", "expected_entities": {}, "expected_redacted_text": "order A100000", "id": "negative-481"}
+{"kind": "negative", "text": "order A100001", "expected_entities": {}, "expected_redacted_text": "order A100001", "id": "negative-482"}
+{"kind": "negative", "text": "order A100002", "expected_entities": {}, "expected_redacted_text": "order A100002", "id": "negative-483"}
+{"kind": "negative", "text": "order A100003", "expected_entities": {}, "expected_redacted_text": "order A100003", "id": "negative-484"}
+{"kind": "negative", "text": "order A100004", "expected_entities": {}, "expected_redacted_text": "order A100004", "id": "negative-485"}
+{"kind": "negative", "text": "order A100005", "expected_entities": {}, "expected_redacted_text": "order A100005", "id": "negative-486"}
+{"kind": "negative", "text": "order A100006", "expected_entities": {}, "expected_redacted_text": "order A100006", "id": "negative-487"}
+{"kind": "negative", "text": "order A100007", "expected_entities": {}, "expected_redacted_text": "order A100007", "id": "negative-488"}
+{"kind": "negative", "text": "I have zero one questions", "expected_entities": {}, "expected_redacted_text": "I have zero one questions", "id": "negative-489"}
+{"kind": "negative", "text": "I have one two questions", "expected_entities": {}, "expected_redacted_text": "I have one two questions", "id": "negative-490"}
+{"kind": "negative", "text": "I have two three questions", "expected_entities": {}, "expected_redacted_text": "I have two three questions", "id": "negative-491"}
+{"kind": "negative", "text": "I have three four questions", "expected_entities": {}, "expected_redacted_text": "I have three four questions", "id": "negative-492"}
+{"kind": "negative", "text": "I have four five questions", "expected_entities": {}, "expected_redacted_text": "I have four five questions", "id": "negative-493"}
+{"kind": "negative", "text": "I have five six questions", "expected_entities": {}, "expected_redacted_text": "I have five six questions", "id": "negative-494"}
+{"kind": "negative", "text": "I have six seven questions", "expected_entities": {}, "expected_redacted_text": "I have six seven questions", "id": "negative-495"}
+{"kind": "negative", "text": "I have seven eight questions", "expected_entities": {}, "expected_redacted_text": "I have seven eight questions", "id": "negative-496"}
+{"kind": "negative", "text": "I have eight nine questions", "expected_entities": {}, "expected_redacted_text": "I have eight nine questions", "id": "negative-497"}
+{"kind": "negative", "text": "I have nine zero questions", "expected_entities": {}, "expected_redacted_text": "I have nine zero questions", "id": "negative-498"}
+{"kind": "negative", "text": "I have zero one questions", "expected_entities": {}, "expected_redacted_text": "I have zero one questions", "id": "negative-499"}
+{"kind": "negative", "text": "I have one two questions", "expected_entities": {}, "expected_redacted_text": "I have one two questions", "id": "negative-500"}

@@ -1,0 +1,8 @@
+{
+  "known_gaps": [
+    "An SSN split across two messages is not detected. The service sees one message at a time.",
+    "A date written day-then-month, such as 14 March 1985, is not a DOB even next to a birth word.",
+    "Nine digits with no separator are redacted as an SSN, so an order number or a ZIP+4 written as nine digits and no hyphen is the same shape. Hyphenated ZIP+4 (12345-6789) is kept.",
+    "A driver-license number with no license or dl word next to it is kept. A letter plus digits alone is an order number."
+  ]
+}
